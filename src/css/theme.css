@@ -772,11 +772,19 @@ ul.nav-bar-tool {
 .carousel-indicators .active {
   background-color: #007bff; /* رنگ دات فعال */
 }
-
+.rectangle {
+    width: 32px;
+    height: 5px;
+    background: #fff;
+    position: absolute;
+    bottom: 0;
+    left: -16px;
+    top: 5px;
+}
 /* مثلث که به صورت مستقل از دات‌ها حرکت می‌کند */
 .indicator-triangle {
   position: absolute;
-  top: -8px; /* فاصله مثلث از دات‌ها */
+  top: 4px; /* فاصله مثلث از دات‌ها */
   width: 0;
   height: 0;
   border-left: 6px solid transparent;
