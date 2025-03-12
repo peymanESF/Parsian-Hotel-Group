@@ -747,7 +747,7 @@ ul.nav-bar-tool {
 }
 /*** Navbar End ***/
 /*** slider carousel ***/
-/* استایل برای دات‌ها */
+/* Ã˜Â§Ã˜Â³Ã˜ÂªÃ˜Â§Ã›Å’Ã™â€ž Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã˜Â¯Ã˜Â§Ã˜ÂªÃ¢â‚¬Å’Ã™â€¡Ã˜Â§ */
 .carousel-indicators {
   position: relative;
   list-style: none;
@@ -757,7 +757,7 @@ ul.nav-bar-tool {
   margin: 0;
 }
 
-/* استایل برای هر دات */
+/* Ã˜Â§Ã˜Â³Ã˜ÂªÃ˜Â§Ã›Å’Ã™â€ž Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã™â€¡Ã˜Â± Ã˜Â¯Ã˜Â§Ã˜Âª */
 .carousel-indicators li {
   width: 12px;
   height: 12px;
@@ -768,9 +768,9 @@ ul.nav-bar-tool {
   transition: all 0.3s ease;
 }
 
-/* استایل برای دات فعال */
+/* Ã˜Â§Ã˜Â³Ã˜ÂªÃ˜Â§Ã›Å’Ã™â€ž Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€ž */
 .carousel-indicators .active {
-  background-color: #007bff; /* رنگ دات فعال */
+  background-color: #007bff; /* Ã˜Â±Ã™â€ ÃšÂ¯ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€ž */
 }
 .rectangle {
     width: 32px;
@@ -781,35 +781,43 @@ ul.nav-bar-tool {
     left: -16px;
     top: 5px;
 }
-/* مثلث که به صورت مستقل از دات‌ها حرکت می‌کند */
+/* Ã™â€¦Ã˜Â«Ã™â€žÃ˜Â« ÃšÂ©Ã™â€¡ Ã˜Â¨Ã™â€¡ Ã˜ÂµÃ™Ë†Ã˜Â±Ã˜Âª Ã™â€¦Ã˜Â³Ã˜ÂªÃ™â€šÃ™â€ž Ã˜Â§Ã˜Â² Ã˜Â¯Ã˜Â§Ã˜ÂªÃ¢â‚¬Å’Ã™â€¡Ã˜Â§ Ã˜Â­Ã˜Â±ÃšÂ©Ã˜Âª Ã™â€¦Ã›Å’Ã¢â‚¬Å’ÃšÂ©Ã™â€ Ã˜Â¯ */
+.indicator-triangle.active {
+  opacity:1;
+}
+
 .indicator-triangle {
   position: absolute;
-  top: 4px; /* فاصله مثلث از دات‌ها */
+  top: 4px;
   width: 0;
   height: 0;
-  border-left: 6px solid transparent;
-  border-right: 6px solid transparent;
-  border-bottom: 8px solid white;
   opacity: 1;
   transition: transform 0.3s ease-in-out;
-  left: 0; /* موقعیت اولیه مثلث */
+  left: -2px;
+  /* opacity:0; */
 }
-
-/* برای دات فعال، مثلث باید روی دات فعال قرار گیرد */
+.carousel-indicators [data-bs-target]{
+  width: 59px;
+  !im;!i;!;
+  height: 4px;!i;!;
+  background-color: var(--first-color) !important;!i;!;
+  opacity: 1;
+}
+.indicator-triangle > svg {
+  position:absolute;
+  top:-2.5px;
+  left:0;
+}
+/* Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€žÃ˜Å’ Ã™â€¦Ã˜Â«Ã™â€žÃ˜Â« Ã˜Â¨Ã˜Â§Ã›Å’Ã˜Â¯ Ã˜Â±Ã™Ë†Ã›Å’ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€ž Ã™â€šÃ˜Â±Ã˜Â§Ã˜Â± ÃšÂ¯Ã›Å’Ã˜Â±Ã˜Â¯ */
 .carousel-indicators li.active ~ .indicator-triangle {
-  transform: translateX(0); /* موقعیت مثلث وقتی دات فعال است */
+  transform: translateX(0); /* Ã™â€¦Ã™Ë†Ã™â€šÃ˜Â¹Ã›Å’Ã˜Âª Ã™â€¦Ã˜Â«Ã™â€žÃ˜Â« Ã™Ë†Ã™â€šÃ˜ÂªÃ›Å’ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€ž Ã˜Â§Ã˜Â³Ã˜Âª */
 }
 
-/* تنظیم موقعیت مثلث برای دات فعال */
+/* Ã˜ÂªÃ™â€ Ã˜Â¸Ã›Å’Ã™â€¦ Ã™â€¦Ã™Ë†Ã™â€šÃ˜Â¹Ã›Å’Ã˜Âª Ã™â€¦Ã˜Â«Ã™â€žÃ˜Â« Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã˜Â¯Ã˜Â§Ã˜Âª Ã™ÂÃ˜Â¹Ã˜Â§Ã™â€ž */
 .carousel-indicators li.active {
   position: relative;
 }
-
-.carousel-indicators li.active + .indicator-triangle {
-  left: calc(100% * var(--active-slide-index)); /* موقعیت مثلث روی دات فعال */
-}
-
-/* برای حرکت افقی مثلث در طول دات‌ها */
+/* Ã˜Â¨Ã˜Â±Ã˜Â§Ã›Å’ Ã˜Â­Ã˜Â±ÃšÂ©Ã˜Âª Ã˜Â§Ã™ÂÃ™â€šÃ›Å’ Ã™â€¦Ã˜Â«Ã™â€žÃ˜Â« Ã˜Â¯Ã˜Â± Ã˜Â·Ã™Ë†Ã™â€ž Ã˜Â¯Ã˜Â§Ã˜ÂªÃ¢â‚¬Å’Ã™â€¡Ã˜Â§ */
 .carousel-indicators {
   position: relative;
 }
@@ -825,9 +833,12 @@ ul.nav-bar-tool {
 .carousel button {
   width: 5% !important;
 }
-
 .carousel-indicators {
   direction: ltr;
+  opacity:0;
+}
+.carousel-indicators:has( .active) {  
+  opacity:1;
 }
 
 /*** contact us ***/
