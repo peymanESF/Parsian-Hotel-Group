@@ -954,9 +954,10 @@ ul.nav-bar-tool {
     height:100%;
     position:absolute;
     bottom:0;
-    left:0;
+    left: 50%;
     background:#1E1E1ECC;
     z-index:-1;
+    transform: translateX(-50%);
 }
 #footerSection {
   padding: 0;
