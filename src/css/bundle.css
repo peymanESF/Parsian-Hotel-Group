@@ -10626,7 +10626,12 @@ b,strong {
 }
 
 .blockquote-footer::before {
-    content: "\2014\a0"
+    content: "\f111";
+    font-family: 'Font Awesome 5 Pro';
+    font-size: 5px;
+    margin-left: 5px;
+    top: -1px;
+    position: relative;
 }
 
 .link-hover-primary:hover {
@@ -10738,11 +10743,15 @@ figure.image-hover-scale {
     width: 100%;
     max-width: 100%;
     position: relative;
-    overflow: hidden
+    overflow: hidden;
+    !im;!im;!i;!;
+    min-height: 359px;
 }
 
 figure.image-hover-scale img {
-    transition: var(--bs-figure-image-transition)
+    transition: var(--bs-figure-image-transition);
+    height: 100%;
+    object-fit: cover;
 }
 
 figure.image-hover-scale:hover img {
@@ -41050,7 +41059,8 @@ textarea.form-control-lg {
     height: 100%;
     width: 100%;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 108.9 103.6'%3E%3Cg data-name='Layer 2'%3E%3Cpath fill='%23eeb461' d='m54.4 0 16.9 34.1 37.6 5.5-27.2 26.5 6.4 37.5-33.7-17.7-33.6 17.7 6.4-37.5L0 39.6l37.6-5.5L54.4 0z' data-name='Layer 1'/%3E%3C/g%3E%3C/svg%3E");
-    background-repeat: repeat-x
+    background-repeat: repeat-x;
+    left: 0;
 }
 
 .star-rate-view .star-value.rate-0 {
@@ -41090,7 +41100,7 @@ textarea.form-control-lg {
 }
 
 .star-rate-view .star-value.rate-45 {
-    width: 90%
+    width: 90%;
 }
 
 .star-rate-view .star-value.rate-50 {
@@ -41102,7 +41112,7 @@ textarea.form-control-lg {
 }
 
 .star-rate-view.star-rate-size-sm .star-value {
-    background-size: 16px
+    background-size: 16px;
 }
 
 .star-rate-view .star-value,.star-rate-view.star-rate-size-md .star-value {
