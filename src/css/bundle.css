@@ -17795,8 +17795,8 @@ textarea.form-control-lg {
     ff; */
     background-clip: padding-box;
     border: 0;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
+    /* border-top: 10px solid transparent; */
+    /* border-bottom: 10px solid transparent; */
     /* opacity: .5; */
     transition: opacity .6s ease
 }
