@@ -40413,7 +40413,7 @@ textarea.form-control-lg {
     font-size: unset
 }
 
-#header .header-navbar .dropdown-menu:before {
+#header .header-navbar .dropdown > .dropdown-menu:before {
     content: "";
     position: absolute;
     right: 20px;
