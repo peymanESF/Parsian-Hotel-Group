@@ -2004,6 +2004,11 @@ footer .col-4 {
   min-height: 136px;
 }
 @media (max-width: 768px) {
+  #footerSection div,
+    #footerSection span,
+    #footerSection a{
+        text-align:center;
+    }
   #footerSection > div.row .column {
     min-height: unset;
   }
