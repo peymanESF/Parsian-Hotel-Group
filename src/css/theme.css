@@ -314,7 +314,7 @@ body:before{
   z-index:-1;
 }
 html[data-bs-theme="light"] body:before{
-  opacity:0.8;
+  opacity: 0.7;
 }
 html[data-bs-theme="dark"] body:before{
   opacity:0.1;
@@ -1157,7 +1157,8 @@ footer .underSliderContainer {
   filter: brightness(1.02);
 }
 [data-bs-theme="dark"] #aboutUsSection {
-  background: linear-gradient(45deg, black, transparent);
+  background: linear-gradient(45deg, black, transparent),
+    url(../img/aboutUsBg.png);
   background-size: 100% 100%;
 }
 
