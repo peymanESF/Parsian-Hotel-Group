@@ -1157,8 +1157,7 @@ footer .underSliderContainer {
   filter: brightness(1.02);
 }
 [data-bs-theme="dark"] #aboutUsSection {
-  background: linear-gradient(45deg, black, transparent),
-    url(../img/aboutUsBg.png);
+  background: linear-gradient(45deg, black, transparent);
   background-size: 100% 100%;
 }
 
