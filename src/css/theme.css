@@ -9,7 +9,6 @@
   --primary-btn: #91346b;
   --second-bg: #1e1e1e;
   --card-bg: #f5f5f5;
-  --gold-color: #dac070;
 }
 [data-bs-theme="light"] a:hover span {
   --primary-btn: #ffffff;
@@ -53,168 +52,168 @@
 /********** FONTS **********/
 @font-face {
   font-family: "Abar VF";
-  src: url("../fonts/Abar-VF.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/Abar-VF.woff2");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Regular WOFF";
-  src: url("../fonts/AbarLowFaNum-Regular.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Regular.woff");
 }
 
 @font-face {
   font-family: "AbarLowFaNum SemiBold WOFF";
-  src: url("../fonts/AbarLowFaNum-SemiBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-SemiBold.woff");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Bold WOFF";
-  src: url("../fonts/AbarLowFaNum-Bold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Bold.woff");
 }
 
 @font-face {
   font-family: "AbarLowFaNum ExtraBold WOFF";
-  src: url("../fonts/AbarLowFaNum-ExtraBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-ExtraBold.woff");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Black WOFF";
-  src: url("../fonts/AbarLowFaNum-Black.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Black.woff");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Regular WOFF2";
-  src: url("../fonts/AbarLowFaNum-Regular.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Regular.woff2");
 }
 
 @font-face {
   font-family: "AbarLowFaNum SemiBold WOFF2";
-  src: url("../fonts/AbarLowFaNum-SemiBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-SemiBold.woff2");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Bold WOFF2";
-  src: url("../fonts/AbarLowFaNum-Bold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Bold.woff2");
 }
 
 @font-face {
   font-family: "AbarLowFaNum ExtraBold WOFF2";
-  src: url("../fonts/AbarLowFaNum-ExtraBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-ExtraBold.woff2");
 }
 
 @font-face {
   font-family: "AbarLowFaNum Black WOFF2";
-  src: url("../fonts/AbarLowFaNum-Black.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarLowFaNum-Black.woff2");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Regular WOFF";
-  src: url("../fonts/AbarMidFaNum-Regular.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Regular.woff");
 }
 
 @font-face {
   font-family: "AbarMidFaNum SemiBold WOFF";
-  src: url("../fonts/AbarMidFaNum-SemiBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-SemiBold.woff");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Bold WOFF";
-  src: url("../fonts/AbarMidFaNum-Bold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Bold.woff");
 }
 
 @font-face {
   font-family: "AbarMidFaNum ExtraBold WOFF";
-  src: url("../fonts/AbarMidFaNum-ExtraBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-ExtraBold.woff");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Black WOFF";
-  src: url("../fonts/AbarMidFaNum-Black.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Black.woff");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Regular WOFF2";
-  src: url("../fonts/AbarMidFaNum-Regular.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Regular.woff2");
 }
 
 @font-face {
   font-family: "AbarMidFaNum SemiBold WOFF2";
-  src: url("../fonts/AbarMidFaNum-SemiBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-SemiBold.woff2");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Bold WOFF2";
-  src: url("../fonts/AbarMidFaNum-Bold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Bold.woff2");
 }
 
 @font-face {
   font-family: "AbarMidFaNum ExtraBold WOFF2";
-  src: url("../fonts/AbarMidFaNum-ExtraBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-ExtraBold.woff2");
 }
 
 @font-face {
   font-family: "AbarMidFaNum Black WOFF2";
-  src: url("../fonts/AbarMidFaNum-Black.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarMidFaNum-Black.woff2");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Regular WOFF";
-  src: url("../fonts/AbarHighFaNum-Regular.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Regular.woff");
 }
 
 @font-face {
   font-family: "AbarHighFaNum SemiBold WOFF";
-  src: url("../fonts/AbarHighFaNum-SemiBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-SemiBold.woff");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Bold WOFF";
-  src: url("../fonts/AbarHighFaNum-Bold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Bold.woff");
 }
 
 @font-face {
   font-family: "AbarHighFaNum ExtraBold WOFF";
-  src: url("../fonts/AbarHighFaNum-ExtraBold.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-ExtraBold.woff");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Black WOFF";
-  src: url("../fonts/AbarHighFaNum-Black.woff");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Black.woff");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Regular WOFF2";
-  src: url("../fonts/AbarHighFaNum-Regular.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Regular.woff2");
 }
 
 @font-face {
   font-family: "AbarHighFaNum SemiBold WOFF2";
-  src: url("../fonts/AbarHighFaNum-SemiBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-SemiBold.woff2");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Bold WOFF2";
-  src: url("../fonts/AbarHighFaNum-Bold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Bold.woff2");
 }
 
 @font-face {
   font-family: "AbarHighFaNum ExtraBold WOFF2";
-  src: url("../fonts/AbarHighFaNum-ExtraBold.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-ExtraBold.woff2");
 }
 
 @font-face {
   font-family: "AbarHighFaNum Black WOFF2";
-  src: url("../fonts/AbarHighFaNum-Black.woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/AbarHighFaNum-Black.woff2");
 }
 
 @font-face {
   font-family: IranYekan;
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/IranYekan.eot");
-  src: url("../fonts/IranYekan.eot?#iefix") format("embedded-opentype"),
-    /* IE6-8 */ url("../fonts/IranYekan.woff2") format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/ url("~/fonts/IranYekan.woff") format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/IranYekan.ttf")
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranYekan.eot");
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranYekan.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/azadi/hotel-azadi-main/src/fonts/IranYekan.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url(/azadi/hotel-azadi-main/src/"~/fonts/IranYekan.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/azadi/hotel-azadi-main/src/fonts/IranYekan.ttf")
       format("truetype");
 }
 
@@ -222,23 +221,23 @@
   font-family: "IranYekanLight";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/IRANYekanWebLight.eot");
-  src: url("../fonts/IRANYekanWebLight.eot") format("embedded-opentype"),
-    url("../fonts/fontawesome-webfont.svg") format("svg"),
-    url("../fonts/IRANYekanWebLight.ttf") format("truetype"),
-    url("../fonts/IRANYekanWebLight.woff") format("woff")
-      url("../fonts/IRANYekanWebLight.woff2") format("woff2");
+  src: url("/azadi/hotel-azadi-main/src/fonts/IRANYekanWebLight.eot");
+  src: url("/azadi/hotel-azadi-main/src/fonts/IRANYekanWebLight.eot") format("embedded-opentype"),
+    url("/azadi/hotel-azadi-main/src/fonts/fontawesome-webfont.svg") format("svg"),
+    url("/azadi/hotel-azadi-main/src/fonts/IRANYekanWebLight.ttf") format("truetype"),
+    url("/azadi/hotel-azadi-main/src/fonts/IRANYekanWebLight.woff") format("woff")
+      url("/azadi/hotel-azadi-main/src/fonts/IRANYekanWebLight.woff2") format("woff2");
 }
 
 @font-face {
   font-family: BYekan;
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/IranYekan.eot");
-  src: url("../fonts/IranYekan.eot?#iefix") format("embedded-opentype"),
-    /* IE6-8 */ url("../fonts/IranYekan.woff2") format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/IranYekan.woff") format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/IranYekan.ttf")
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranYekan.eot");
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranYekan.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/azadi/hotel-azadi-main/src/fonts/IranYekan.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/azadi/hotel-azadi-main/src/fonts/IranYekan.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/azadi/hotel-azadi-main/src/fonts/IranYekan.ttf")
       format("truetype");
 }
 
@@ -246,45 +245,45 @@
   font-family: IranSans;
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/IranSansWeb.eot");
-  src: url("../fonts/IranSansWebeot?#iefix") format("embedded-opentype"),
-    /* IE6-8 */ url("../fonts/IranSansWeb.woff2") format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/IranSansWeb.woff")
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranSansWeb.eot");
+  src: url("/azadi/hotel-azadi-main/src/fonts/IranSansWebeot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/azadi/hotel-azadi-main/src/fonts/IranSansWeb.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/azadi/hotel-azadi-main/src/fonts/IranSansWeb.woff")
       format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/IranSansWeb.ttf")
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/azadi/hotel-azadi-main/src/fonts/IranSansWeb.ttf")
       format("truetype");
 }
 
 @font-face {
   font-family: cinema;
-  src: url("../fonts/Cinema-Full.ttf") format("ttf");
+  src: url("/azadi/hotel-azadi-main/src/fonts/Cinema-Full.ttf") format("ttf");
 }
 
 @font-face {
   font-family: Loew;
-  src: url("../fonts/Loew.otf") format("otf"),
-    url("../fonts/Loew-black.otf") format("otf"),
-    url("../fonts/Loew-ExtraBold.otf") format("otf"),
-    url("../fonts/Loew-Heavy.otf") format("otf"),
-    url("../fonts/Loew-Light.otf") format("otf"),
-    url("../fonts/Loew-Medium.otf") format("otf"),
-    url("../fonts/Loew-Next.otf") format("otf"),
-    url("../fonts/Loew-Thin.otf") format("otf"), url("../fonts/") format("otf");
+  src: url("/azadi/hotel-azadi-main/src/fonts/Loew.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-black.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-ExtraBold.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-Heavy.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-Light.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-Medium.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-Next.otf") format("otf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Loew-Thin.otf") format("otf"), url("/azadi/hotel-azadi-main/src/fonts/") format("otf");
 }
 
 @font-face {
   font-family: Vazir;
-  src: url("../fonts/Vazir-Bold-FD-WOL.ttf") format("ttf"),
-    url("../fonts/Vazir-FD-WOL.ttf") format("ttf"),
-    url("../fonts/Vazir-Light-FD-WOL.ttf") format("ttf"),
-    url("../fonts/Vazir-Medium-FD-WOL.ttf") format("ttf"),
-    url("../fonts/Vazir-Thin-FD-WOL.ttf") format("ttf"),
-    url("../fonts/Vazir-Thin-FD-WOL.ttf") format("ttf");
+  src: url("/azadi/hotel-azadi-main/src/fonts/Vazir-Bold-FD-WOL.ttf") format("ttf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Vazir-FD-WOL.ttf") format("ttf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Vazir-Light-FD-WOL.ttf") format("ttf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Vazir-Medium-FD-WOL.ttf") format("ttf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Vazir-Thin-FD-WOL.ttf") format("ttf"),
+    url("/azadi/hotel-azadi-main/src/fonts/Vazir-Thin-FD-WOL.ttf") format("ttf");
 }
 
 @font-face {
   font-family: BNazanin;
-  src: url("../fonts/B_nazanin.ttf") format("ttf");
+  src: url("/azadi/hotel-azadi-main/src/fonts/B_nazanin.ttf") format("ttf");
 }
 
 /*** theme style ***/
@@ -301,9 +300,27 @@ body {
   font-family: IranSans;
   overflow-x: hidden;
   direction: rtl;
-  background: url(../img/art-bg.png);
+  position:relative;
 }
-
+body:before{
+  content:'';
+  width:100%;
+  height:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  background: url(/azadi/hotel-azadi-main/src/img/art-bg.png);
+  z-index:-1;
+}
+[data-bs-theme="dark"] body:before{
+  filter:brightness(0.5);
+}
+html[data-bs-theme="light"] body:before{
+  opacity:0.8;
+}
+html[data-bs-theme="dark"] body:before{
+  opacity:0.1;
+}
 body > form {
   min-height: 100vh;
 }
@@ -676,8 +693,8 @@ ul.nav-bar-tool.changeLanguage {
 }
 
 ul.nav-bar-tool.changeLanguage > li.dropdown > ul {
-  right: -100%;
-  /* margin-top: 10px !important; */
+  right: -50%;
+  margin-top: 10px !important;
   min-width: 20px !important;
   width: 120px;
 }
@@ -697,7 +714,6 @@ ul.nav-bar-tool.changeLanguage > li.dropdown > ul li a {
 }
 
 ul.nav-bar-tool {
-  flex: 1 0 1%;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -705,9 +721,8 @@ ul.nav-bar-tool {
   padding: 0;
 }
 @media (max-width: 768px) {
-  .changeLanguage i,
-  #toggle-theme {
-    color: var(--main-bg-color) !important;
+  .changeLanguage i,#toggle-theme{
+    color: var(--main-bg-color) !important;   
   }
   .offcanvas-body.justify-content-end {
     display: flex;
@@ -724,23 +739,24 @@ ul.nav-bar-tool {
   .offcanvas-body ul:nth-child(3) {
     order: 4;
     width: 100%;
+    padding-right: 0;
   }
   .offcanvas-body ul:nth-child(1),
   .offcanvas-body ul:nth-child(4) {
     width: 50%;
     height: 100px !important;
   }
-  .mobileHeadLogo {
-    filter: brightness(0.3);
+  .mobileHeadLogo{
+    filter:brightness(0.3);
   }
-  .mobileHeadTitle {
-    margin: 0 !important;
+  .mobileHeadTitle{
+    margin:0 !important;
   }
-  #offcanvasNavbar .offcanvas-header > a {
+  #offcanvasNavbar .offcanvas-header >a {
     /* justify-content:center !important; */
     /* align-items:center !important; */
   }
-  #offcanvasNavbar .offcanvas-header .btn-close {
+  #offcanvasNavbar .offcanvas-header .btn-close{
     margin: 0px 10px 0 0 !important;
   }
   .offcanvas-body ul:nth-child(4) {
@@ -749,98 +765,17 @@ ul.nav-bar-tool {
 }
 /*** Navbar End ***/
 /*** slider carousel ***/
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â³ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ */
-.carousel-indicators {
-  position: relative;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  padding: 0;
-  margin: 0;
-}
-
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â³ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â± ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª */
-.carousel-indicators li {
-  width: 12px;
-  height: 12px;
-  background-color: #fff;
-  margin: 0 5px;
-  cursor: pointer;
-  position: relative;
-  transition: all 0.3s ease;
-}
-
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â³ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
-.carousel-indicators .active {
-  background-color: #007bff; /* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â¯ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
-}
-.rectangle {
-  width: 32px;
-  height: 5px;
-  background: #fff;
-  position: absolute;
-  bottom: 0;
-  left: -16px;
-  top: 5px;
-}
-/* ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â«ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â« ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂµÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â³ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â² ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â­ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ */
-.indicator-triangle.active {
-  opacity: 1;
-}
-
-.indicator-triangle {
-  position: absolute;
-  top: -5px;
-  width: 0;
-  height: 0;
-  opacity: 1;
-  transition: transform 0.3s ease-in-out;
-  left: 0px;
-  /* opacity:0; */
-}
-.carousel-indicators [data-bs-target] {
-  width: 59px;
-  height: 4px;
-  background-color: var(--first-color) !important;
-  opacity: 1;
-}
-.indicator-triangle > svg {
-  position: absolute;
-  top: -2.5px;
-  left: 0;
-}
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â«ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â« ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â± ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ */
-.carousel-indicators li.active ~ .indicator-triangle {
-  transform: translateX(
-    0
-  ); /* ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â«ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â« ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â³ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª */
-}
-
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â«ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â« ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
-.carousel-indicators li.active {
-  position: relative;
-}
-/* ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â­ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â±ÃƒÆ’Ã…Â¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Âª ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬ÂºÃƒâ€¦Ã¢â‚¬â„¢ ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â«ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â« ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â± ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â·ÃƒÆ’Ã¢â€žÂ¢Ãƒâ€¹Ã¢â‚¬Â ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚ÂªÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬â„¢ÃƒÆ’Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÆ’Ã‹Å“Ãƒâ€šÃ‚Â§ */
-.carousel-indicators {
-  position: relative;
-}
-
-.carousel-indicators li {
-  list-style: none; /* remove numbers */
-}
 .carousel-item img {
   height: 800px;
+  object-fit: cover;
 }
 
 .carousel button {
   width: 5% !important;
 }
+
 .carousel-indicators {
   direction: ltr;
-  opacity: 0;
-}
-.carousel-indicators:has(.active) {
-  opacity: 1;
 }
 
 /*** contact us ***/
@@ -859,7 +794,7 @@ ul.nav-bar-tool {
 
 #contact-us-section:before {
   content: "";
-  background: url("../img/contact-us/banner.jpg") no-repeat;
+  background: url("/azadi/hotel-azadi-main/src/img/contact-us/banner.jpg") no-repeat;
   background-size: 100% 100%;
   width: 100%;
   height: 100%;
@@ -889,6 +824,7 @@ ul.nav-bar-tool {
 @media (max-width: 768px) {
   .carousel-item img {
     height: 400px;
+    object-fit: cover;
   }
 }
 /*** links section ***/
@@ -933,43 +869,9 @@ ul.nav-bar-tool {
 }
 
 /*** footer ***/
-#footerSection .fullWideBanner {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
-#footerSection .fullWideBanner img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-#footerSection .row.container.footerContentCol {
-  position: relative;
-  padding: 40px 0;
-}
-#footerSection .row.container.footerContentCol:before {
-  content: "";
-  width: 100vw;
-  height: 100%;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  background: #1e1e1ecc;
-  z-index: -1;
-  transform: translateX(-50%);
-}
 #footerSection {
+  background: var(--first-color);
   padding: 0;
-  position: relative;
-  min-height: 561px;
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  align-items: center;
-  margin-top: 50px;
 }
 
 #footerSection * {
@@ -977,6 +879,7 @@ ul.nav-bar-tool {
   text-decoration: none !important;
 }
 #footerSection .copyRight span {
+  color: var(--second-color) !important;
 }
 #footerSection ul {
   margin-top: 10px;
@@ -1002,9 +905,6 @@ ul.nav-bar-tool {
   padding-left: 10px;
   padding-right: 10px;
   width: 100%;
-  margin: 0;
-  justify-content: center;
-  align-items: center;
 }
 
 #footerSection .copyRight {
@@ -1012,8 +912,7 @@ ul.nav-bar-tool {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background: var(--first-color);
-  width: 100%;
+  background: var(--second-bg);
 }
 
 .linksContainer a {
@@ -1022,22 +921,43 @@ ul.nav-bar-tool {
 
 .linksContainer a:hover {
   background: white;
-  padding: 5px;
-  border-radius: 3px;
+  padding: 10px;
+  border-radius: 15px;
   color: var(--first-color) !important;
 }
-#footerSection .contactUs .icons ul li a img {
-  transition: 0.2s ease-in-out;
-}
-#footerSection .contactUs .icons ul li a:hover img {
-  opacity: 0.5;
+@media (max-width:768px){
+    #footerSection div,
+    #footerSection span,
+    #footerSection a{
+        text-align:center;
+    }
+    #footerSection .title{
+        color:#FFC525;
+        font-weight:bold;
+        font-size:16px;
+    }
+    #footerSection .mainContainer{
+        display:flex;
+        flex-direction:column;        
+    }
+    #footerSection .mainContainer .contactUs{
+        order:1;
+    }
+    #footerSection .mainContainer .brands{
+        order:2;
+    }
+    #footerSection > div.row > div{
+        margin: 0 !important;!i;!;
+        padding: 0px 0;
+    }
+    footer .col-2 .address, footer .col-1 .eNamad{
+        margin-top: 0px !important;!i;!;
+    }
+    #footerSection .title{
+        margin-top:10px;
+    }
 }
 /** start style Online reservation system  **/
-footer .underSliderContainer {
-  position:absolute;
-  top:-5px;
-  z-index:10;
-}
 .underSliderContainer {
   height: 0;
 }
@@ -1084,15 +1004,12 @@ footer .underSliderContainer {
 }
 
 .reserveContainer .date-info,
-.reserveContainer .guest-info{
+.reserveContainer .guest-info {
   font-size: 16px;
-  color: #a32c63 !important;
+  color: #a32c63;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.reserveContainer .guest-info strong {
-  color: #a32c63 !important;
 }
 
 .reserveContainer .date-picker {
@@ -1113,7 +1030,7 @@ footer .underSliderContainer {
 .reserveContainer .guest-info label {
   margin: 0 10px;
   font-size: 16px;
-  color: var(--main-color) !important;!i;!;
+  color: var(--main-color);
 }
 @media (max-width: 768px) {
   #banner {
@@ -1128,27 +1045,24 @@ footer .underSliderContainer {
   .underSliderContainer {
     height: auto;
   }
-  footer .underSliderContainer {
-    position:unset;
-  }
 }
 /** end style Online reservation system  **/
 /** Start Style About Us Section **/
 #aboutUsSection {
-  background: rgb(244 244 244 / 70%);
+  padding-top: 50px;
+  background: url(/azadi/hotel-azadi-main/src/img/aboutUsBg.png);
   background-size: 100% 100%;
   min-height: 545px;
   filter: brightness(1.02);
 }
 [data-bs-theme="dark"] #aboutUsSection {
   background: linear-gradient(45deg, black, transparent),
-    url(../img/aboutUsBg.png);
+    url(/azadi/hotel-azadi-main/src/img/aboutUsBg.png);
   background-size: 100% 100%;
 }
 
 #aboutUsSection .mainContainer {
-  /* width: 60vw; */
-  padding-left: 35px;
+  width: 60vw;
 }
 
 #aboutUsSection .flashDown i {
@@ -1158,27 +1072,20 @@ footer .underSliderContainer {
 
 #aboutUsSection .mainContainer div {
   margin-top: 10px;
-  font-weight: 560;
-  font-size: 14px;
 }
 
 #aboutUsSection .mainContainer .shoar {
+  text-align: center;
   font-weight: 700;
   font-size: 20px;
 }
 
 #aboutUsSection .mainContainer .hotelName {
+  text-align: center;
   font-weight: 850;
   font-size: 48px;
 }
-#aboutUsSection .mainContainer .fiveCircle span {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  background: var(--gold-color);
-  border-radius: 50%;
-  margin-left: 10px;
-}
+
 #aboutUsSection .mainContainer .fiveStar {
   text-align: center;
 }
@@ -1191,17 +1098,17 @@ footer .underSliderContainer {
 }
 
 #aboutUsSection .mainContainer .facilities {
-  justify-content: start;
-  align-items: center;
+  justify-content: space-evenly;
 }
 
 #aboutUsSection .mainContainer .facilities .Item {
-  width: calc(100% / 4 - 15px);
+  width: calc(100% / 4 - 30px);
   text-align: center;
   padding: 10px 10px;
 }
 
 #aboutUsSection .mainContainer .moreInformation {
+  text-align: center;
   margin-top: 20px;
 }
 
@@ -1217,23 +1124,17 @@ footer .underSliderContainer {
   #aboutUsSection .mainContainer {
     width: 90vw;
   }
-  .svgMapContainer svg {
-    max-width: 100%;
-  }
   #aboutUsSection .mainContainer .facilities .Item {
     width: calc(50% - 30px) !important;
   }
   #aboutUsSection .mainContainer .facilities {
     flex-wrap: wrap;
-    justify-content: space-between;
   }
-  #aboutUsSection .mainContainer .moreInformation {
-    text-align: center;
-  }
-  #aboutUsSection {
-    background-size: auto 100%;
-    background-position: right;
-    background-repeat: no-repeat;
+  #aboutUsSection{
+    background-size:auto 100%;
+    background-position:right;
+    background-repeat:no-repeat;
+    
   }
 }
 /** End Style About Us Section **/
@@ -1241,7 +1142,6 @@ footer .underSliderContainer {
 #RoomsofHotelSection {
   margin-top: 30px;
   text-align: center;
-  padding-top: 50px;
 }
 
 #RoomsofHotelSection .Title .shoar {
@@ -1314,7 +1214,6 @@ footer .underSliderContainer {
   width: 100%;
   position: relative;
   z-index: 0;
-  height: 100%;
 }
 
 #RoomsofHotelSection .roomsImg:after {
@@ -1400,7 +1299,7 @@ footer .underSliderContainer {
   padding: 40px;
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
 }
 
@@ -1420,7 +1319,6 @@ footer .underSliderContainer {
   font-size: 13px;
   line-height: 23.4px;
   color: #ffffff;
-  white-space: pre-line;
 }
 
 #RoomsofHotelSection .swiper-slide .hoverCard .link {
@@ -1505,7 +1403,6 @@ footer .underSliderContainer {
 #resturantSection .card a {
   position: relative;
   z-index: 0;
-  display: inline-grid;
 }
 
 #resturantSection .card-body {
@@ -1659,8 +1556,8 @@ footer .underSliderContainer {
 
 /** end style offers section **/
 /** start style guests section **/
-#guests {
-  position: unset;
+#guests{
+  position:unset;
 }
 #guests .swiper {
   width: 100%;
@@ -1671,7 +1568,7 @@ footer .underSliderContainer {
   /*margin-right: 10px !important;*/
 }
 #guests .swiper-slide.swiper-slide-active img {
-  border-radius: 0 20px 20px 0;
+  border-radius: 0 20px 20px 0 ;
 }
 #guests .swiper-slide:not(.swiper-slide-active) img {
   border-radius: 20px;
@@ -1680,7 +1577,7 @@ footer .underSliderContainer {
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: cover;  
 }
 #guests .swiper-slide.swiper-slide-active .container {
   width: 400px;
@@ -1803,23 +1700,23 @@ footer .underSliderContainer {
   #guest {
     overflow: hidden;
   }
-  #guests .swiper-wrapper {
-    padding: 0 20px;
+   #guests .swiper-wrapper{
+    padding:0 20px;
   }
-  #guests .swiper-slide.swiper-slide-active .container {
-    width: 300px;
+  #guests .swiper-slide.swiper-slide-active .container{
+    width:300px;
   }
-  #guests .swiper-slide .desc .name {
-    font-size: 18px;
+  #guests .swiper-slide .desc .name{
+    font-size:18px;
   }
-  #guests .swiper-slide .desc .position {
-    font-size: 14px;
+  #guests .swiper-slide .desc .position{
+    font-size:14px;
   }
-  #guests .swiper-button-prev {
-    right: 20px;
+  #guests .swiper-button-prev{
+    right:20px;
   }
-  #guests .swiper-button-next {
-    left: 20px;
+  #guests .swiper-button-next{
+    left:20px;
   }
 }
 /** end style guest section **/
@@ -1856,6 +1753,10 @@ footer .underSliderContainer {
 #facilities p {
   font-size: 14px;
   font-weight: 400;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
 }
 #facilities a.btn.btn-primary {
   position: relative;
@@ -1884,6 +1785,11 @@ footer .underSliderContainer {
 #news .card-title {
   font-size: 24px;
   font-weight: 700;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 #news .card-link span {
   font-size: 16px;
@@ -1916,12 +1822,6 @@ footer .underSliderContainer {
   border: 1px solid #00000033;
   background: var(--second-color);
 }
-#clientSay .client-say-pagination {
-  color: var(--first-color);
-}
-html[data-bs-theme="dark"] #clientSay .client-say-pagination {
-  color: var(--second-bg);
-}
 #clientSay .personalDesc p {
   font-weight: 400;
   font-size: 12px;
@@ -1931,24 +1831,30 @@ html[data-bs-theme="dark"] #clientSay .client-say-pagination {
 #clientSay .personalName,
 #clientSay .commentsNum {
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 400;
 }
 #clientSay .regCom {
   font-size: 16px;
   font-weight: 400;
 }
-#clientSay img {
-  max-width: 100%;
+#clientSay img{
+  max-width:100%;
 }
-@media (max-width: 768px) {
-  #clientSay .regCom {
-    font-size: 14px;
+@media (max-width:768px){
+  #clientSay .regCom{
+    font-size:14px;
     display: block !important;
     width: 100%;
     padding: 5px !important;
-  }
-  #clientSay .regCom span {
-    line-height: 25px;
+    
+    
+    
+    
+    !i;
+    !;
+  } 
+  #clientSay .regCom span{
+    line-height:25px
   }
 }
 /*** end style tripadviser section **/
@@ -1959,7 +1865,8 @@ footer {
   line-height: 25.2px;
 }
 footer .col-2 .address,
-footer .eNamad {
+footer .col-1 .eNamad {
+  margin-top: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1975,14 +1882,7 @@ footer .col-4 .linksContainer {
 footer .col-2,
 footer .col-3,
 footer .col-4 {
-  border-left: 1px solid var(--gold-color);
-}
-#footerSection .mainContainer:has(.brands) {
-  width: 100%;
-  min-height: 136px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  border-left: 1px solid #ffffff;
 }
 .brands .icons ul,
 .contactUs .icons ul {
@@ -2000,51 +1900,38 @@ footer .col-4 {
 #footerSection > div.row > div {
   margin: 15px 0;
 }
-#footerSection > div.row .column {
-  min-height: 136px;
-}
-@media (max-width: 768px) {
-  #footerSection div,
-    #footerSection span,
-    #footerSection a{
-        text-align:center;
-    }
-  #footerSection > div.row .column {
-    min-height: unset;
-  }
-  #footerSection .row {
-    flex-direction: column;
-    padding: 0 20px !important;!i;!;
+@media (max-width:768px){
+    #footerSection .row {
+    flex-direction:column;
+    padding:0 20px;
     margin: 0;
   }
-  #footerSection .row > div {
-    width: 100%;
-    padding: 15px 25px;
+  #footerSection .row > div{
+    width:100%;
+    padding: 15px 10px;
   }
-  #footerSection .row > div.col-1 {
-    text-align: center;
+  #footerSection .row > div.col-1{
+    text-align:center;
   }
-  #footerSection .row > div.col-3 > .linksContainer {
-    text-align: right;
+  #footerSection .row > div.col-3 > .linksContainer{
+    text-align:left;
   }
-  footer .col-2{
-    border-left:none;
+  footer .col-2, footer .col-3, footer .col-4{
+    border-top:1px solid #ffffff;
+    border-left:none;    
   }
-  footer .col-3,
-  footer .col-4 {
-    border-top: 1px solid #ffffff;
-    border-left: none;
+  #footerSection .copyRight{
+    justify-content:start;
+    align-items:start;
   }
-  #footerSection .copyRight {
-    justify-content: start;
-    align-items: start;
-  }
-  #footerSection .copyRight i {
-    margin-left: 10px;
+  #footerSection .copyRight i{
+    margin-left:10px;
   }
 }
 
 /*** end style footer **/
+   start--flip-area css
+ -========================================*/
 .flip-area {
   position: relative;
   z-index: 1;
@@ -2100,19 +1987,19 @@ footer .col-4 {
   text-align: left;
 }
 .flip-box-front {
-  /*background: url(assets/images/ha.jpg);*/
+  
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .flip-box-front.upper {
-  background: url(assets/images/hasa.jpg);
+  
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .flip-box-front.style-two {
-  background: url(assets/images/hasan.jpg);
+  
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2152,7 +2039,7 @@ footer .col-4 {
   font-family: "Josefin Sans", sans-serif;
 }
 .flip-box-back {
-  /*background: url(assets/images/01.jpg);*/
+  /*background: url(/azadi/hotel-azadi-main/src/assets/images/01.jpg);*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2195,107 +2082,4 @@ footer .col-4 {
   padding: 15px 20px 13px 20px;
   letter-spacing: 2px;
 }
-/** to top btn **/
-#totop-btn {
-  cursor: pointer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50px;
-  height: 50px;
-  color: #fff !important;
-  text-align: center;
-  font-size: 25px;
-  line-height: 32px;
-  padding: 4px;
-  background: #00000080;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-transform-origin: bottom;
-  -ms-transform-origin: bottom;
-  transform-origin: bottom;
-  -webkit-transform: perspective(200px) rotateX(90deg);
-  transform: perspective(200px) rotateX(90deg);
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
-  position: fixed;
-  bottom: 0;
-  left: 30px;
-  z-index: 9999;
-  border: 1px solid white;
-  border-radius: 50%;
-}
-#totop-btn:hover {
-  color: #ffffff !important;
-  background: var(--first-color);
-}
-#totop-btn.active {
-  bottom: 4.5%;
-  -webkit-transform: perspective(200px) rotateX(0);
-  transform: perspective(200px) rotateX(0);
-}
-/*** online chat ***/
-#onlineChat {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50px;
-  height: 50px;
-  color: #fff !important;
-  text-align: center;
-  font-size: 25px;
-  line-height: 32px;
-  padding: 4px;
-  background: #00000080;
-  position: fixed;
-  bottom: 4.5%;
-  right: 30px;
-  z-index: 9999;
-  border-radius: 50%;
-  border: 1px solid white;
-  cursor: pointer;
-}
-/*** start menu hover item ***/
-@media (min-width: 768px) {
-  .navbar-toll .nav-item.dropdown:hover > ul{
-    display:block;
-  }
-  .navbar-nav .nav-item.dropdown:hover > ul {
-    display: block;
-    width: 100%;
-  }
- .dropdown-menu > li:hover > .submenu {
-    display: block;
-  }
-  .dropdown-menu .submenu {
-    display: none;
-    position: absolute;
-    left: 100%;
-    top: -7px;
-  }
-  .dropdown-menu .submenu-left {
-    right: 100%;
-    left: auto;
-  }
-.navbar-nav .dropdown-menu li{
-    width: 100%;
-    position: relative;
-}
-}
-.dropdown-menu li:has(.submenu) > a:after {
-  position: absolute;
-  top: 5%;
-  content: "\f104";
-  font-family: "Font Awesome 5 Pro";
-  font-size: 20px;
-  transition: 0.2s ease;
-  left: 10px;
-}
-a.dropdown-item {
-  position: relative;
-}
-.PersianNumFont{
-  font-family: 'AbarLowFaNum Regular WOFF';
-}
-/*** end menu hover item ***/
+/*--=====================================
